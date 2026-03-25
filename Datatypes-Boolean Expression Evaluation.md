@@ -29,3 +29,4 @@ print("d:", d)
 <img width="831" height="268" alt="image" src="https://github.com/user-attachments/assets/321122d8-ba72-4fb5-92f9-d7df79c8e03b" />
 
 ## Result
+Thus,the program was implemented and executed successfully,and the required output was obtained.
