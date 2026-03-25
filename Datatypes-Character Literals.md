@@ -15,3 +15,4 @@ print("a")
 <img width="408" height="199" alt="image" src="https://github.com/user-attachments/assets/31780b69-c12b-4b58-bfde-8097851d6db6" />
 
 ## Result
+Thus,the program was implemented and executed successfully,and the required output was obtained.
