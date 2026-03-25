@@ -13,3 +13,4 @@ To write a Python program to read a string from the user and then print it.
 ## Output
 
 ## Result
+Thus,the program was implemented and executed successfully,and the required output was obtained.
